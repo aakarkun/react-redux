@@ -11,7 +11,7 @@ To get started, first install all the necessary dependencies.
 
 Run an initial webpack build
 ```
-> webpack
+> npm dev | yarn dev
 ```
 
 Start the development server (changes will now update live in browser)
