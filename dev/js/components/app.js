@@ -13,7 +13,7 @@ export default class App extends React.Component {
                     <UserList />
                     <hr />
                 </div>
-                <div className="card" style= {{float: 'right', textAlign: 'center', height: '450px'}}>
+                <div className="card" style= {{float: 'right', textAlign: 'center', height: '460px'}}>
                 <div>
                     <img src="https://image.ibb.co/c3OYHm/details_icon_01.png" height="64px" width="64px" style= {{float: 'left', marginRight: "10px"}}/><h2 style= {{float: 'left', marginRight: "10px"}}>User Details</h2>
                 </div>

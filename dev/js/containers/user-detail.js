@@ -17,6 +17,7 @@ class UserDetail extends React.Component {
                 <h2>{this.props.user.first_name} {this.props.user.last_name}</h2>
                 <h3>Age: {this.props.user.age}</h3>
                 <h3>Description: {this.props.user.description}</h3>
+                <hr />
             </div>
         );
     }
