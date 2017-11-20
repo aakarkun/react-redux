@@ -23,3 +23,5 @@ To view your project, go to: [http://localhost:3000/](http://localhost:3000/)
 
 ### Sample project
 In this project there will be some users and by clicking username we can view user details.
+
+> Thank you! :)
