@@ -1,6 +1,6 @@
 # React/Redux Boilerplate
 
-Boilerplate and guide for a React/Redux build.
+Boilerplate for a React/Redux build.
 
 ## Getting Started
 
