@@ -6,7 +6,6 @@ import { selectUser } from '../actions/index';
 
 class UserList extends React.Component {
     
-
     createListItems() {
         return this.props.users.map((user) => {
             return (
