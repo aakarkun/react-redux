@@ -2,6 +2,9 @@
 
 Switch branch to 'react-redux-boilerplate' for a React/Redux boilerplate.
 
+# User list and User details
+In this demo app there will be some users and by clicking user name it simply display their details.
+
 ## Getting Started
 
 To get started, first install all the necessary dependencies.
