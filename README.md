@@ -1,6 +1,6 @@
 # React/Redux Boilerplate
 
-Boilerplate and guide for a React/Redux build.
+Switch branch to 'react-redux-boilerplate' for a React/Redux boilerplate.
 
 ## Getting Started
 
