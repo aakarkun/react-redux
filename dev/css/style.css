@@ -1,0 +1,51 @@
+body {
+	font-family: "Raleway";
+}
+
+h2 {
+	font-weight: 300;
+	color: #006699;
+}
+
+h3, h4 {
+	font-weight: 300;
+}
+
+.circle-image {
+	border: 0px;
+	border-radius: 100px;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+hr {
+	opacity: 0.1;
+}
+
+ul {
+	padding: 4px;
+	list-style: none;
+}
+
+li {
+	cursor: pointer;
+	color: #242424;
+	padding: 16px;
+	margin: 15px 4px;
+	border-radius: 100px;
+	background: rgba(219, 219, 219, 0.2);
+	/* box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.08);	 */
+}
+
+li:focus,
+li:hover {
+	background: rgba(219, 219, 219, 0.4);
+	/* box-shadow: 1px 2px 6px rgba(0, 0, 0, 0.09);	 */
+}
+
+.card {
+	border-radius: 10px;
+	width: 450px;
+	margin: 10px;
+	padding: 20px;
+	box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+}
