@@ -2,9 +2,6 @@
 
 Switch branch to 'react-redux-boilerplate' for a React/Redux boilerplate.
 
-# Demo
-In this demo app there will be some users and by clicking username we can view user details.
-
 ## Getting Started
 
 To get started, first install all the necessary dependencies.
@@ -23,3 +20,6 @@ Start the development server (changes will now update live in browser)
 ```
 
 To view your project, go to: [http://localhost:3000/](http://localhost:3000/)
+
+### Sample project
+In this project there will be some users and by clicking username we can view user details.
